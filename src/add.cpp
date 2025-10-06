@@ -1,3 +1,4 @@
-void add(int a, int b){
-    cout<< a + b;
+int add(int a, int b){
+    
+    return a+b;
 }
